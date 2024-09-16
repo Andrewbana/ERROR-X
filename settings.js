@@ -10,29 +10,29 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2349125042727"
-global.ownername = "EMMY_HENZ-TECH👑"
+global.ownernomer = "233549772750"
+global.ownername = "King Rio✨"
 global.ytname = "YT: EMMY-HENZ"
 global.socialm = "GitHub: EMMY_HENZ-TECH"
 global.location = "Nigeria,Cross River,Calabar"
 
-global.ownernumber = '2349125042727'  //creator number
-global.ownername = 'EMMY_HENZ-TECH👑' //owner name
+global.ownernumber = '233549772750'  //creator number
+global.ownername = 'King Rio✨' //owner name
 global.botname = 'ERROR-X☠💀☠' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'EMMY HENZ👑\n\nContact: +2349125042727'
+global.author = 'King Rio✨'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "EMMY HENZ Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C'
+global.link = 'https://chat.whatsapp.com/HR76L0EPTf44pP0IBsN0vD'
 
 //custom prefix
-global.prefa = ['.']
+global.prefa = ['/']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
@@ -41,7 +41,7 @@ global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
